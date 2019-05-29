@@ -1,12 +1,6 @@
 package main;
-
-import java.util.Map;
-import java.util.Scanner;
-import java.util.TreeMap;
 import java.io.BufferedReader;
-
 import java.io.IOException;
-
 import java.io.InputStreamReader;
 public class ToughQuestions1 {
     public static void main(String[] args) throws IOException {
